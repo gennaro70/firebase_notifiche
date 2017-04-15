@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "455583674625",
-    "firebase_url": "https://prova-2e7b1.firebaseio.com",
-    "project_id": "prova-2e7b1",
-    "storage_bucket": "prova-2e7b1.appspot.com"
+    "project_number": "",
+    "firebase_url": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:455583674625:android:e74acd531d7565c2",
+        "mobilesdk_app_id": "",
         "android_client_info": {
-          "package_name": "com.example.firebasenotifiche"
+          "package_name": ""
         }
       },
       "oauth_client": [
         {
-          "client_id": "455583674625-aksrun3rhhkhqe3qk4vap74gbbbj3k8s.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDFZi3-bEponpueHOvwaVhuErKPxa21hzM"
+          "current_key": ""
         }
       ],
       "services": {
