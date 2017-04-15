@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/gennaro70/AndroidStudioProjects/FireBaseNotifiche/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/gennaro70/.android/build-cache/63e355331568a48cb58cd7ff2f13ea1579e82a0d/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/gennaro70/AndroidStudioProjects/FireBaseNotifiche/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/gennaro70/.android/build-cache/63e355331568a48cb58cd7ff2f13ea1579e82a0d/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/gennaro70/AndroidStudioProjects/FireBaseNotifiche/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/gennaro70/.android/build-cache/63e355331568a48cb58cd7ff2f13ea1579e82a0d/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/gennaro70/AndroidStudioProjects/FireBaseNotifiche/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/gennaro70/.android/build-cache/63e355331568a48cb58cd7ff2f13ea1579e82a0d/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/gennaro70/AndroidStudioProjects/FireBaseNotifiche/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/gennaro70/.android/build-cache/63e355331568a48cb58cd7ff2f13ea1579e82a0d/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/gennaro70/AndroidStudioProjects/FireBaseNotifiche/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/gennaro70/.android/build-cache/63e355331568a48cb58cd7ff2f13ea1579e82a0d/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/gennaro70/AndroidStudioProjects/FireBaseNotifiche/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/gennaro70/.android/build-cache/63e355331568a48cb58cd7ff2f13ea1579e82a0d/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/gennaro70/AndroidStudioProjects/FireBaseNotifiche/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/gennaro70/.android/build-cache/63e355331568a48cb58cd7ff2f13ea1579e82a0d/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/gennaro70/AndroidStudioProjects/FireBaseNotifiche/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/gennaro70/.android/build-cache/63e355331568a48cb58cd7ff2f13ea1579e82a0d/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/gennaro70/AndroidStudioProjects/FireBaseNotifiche/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/gennaro70/.android/build-cache/63e355331568a48cb58cd7ff2f13ea1579e82a0d/output/res/color-v23/abc_tint_switch_track.xml"
+    }
+]

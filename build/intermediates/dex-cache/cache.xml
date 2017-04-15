@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/gennaro70/AndroidStudioProjects/FireBaseNotifiche/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/gennaro70/AndroidStudioProjects/FireBaseNotifiche/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_244af8b869690092607366f5a0eb6052fa199759/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gennaro70/AndroidStudioProjects/FireBaseNotifiche/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc04beabd9d057c7b0086b5f56844cb839de3500">
+        <dex dex="/Users/gennaro70/AndroidStudioProjects/FireBaseNotifiche/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_db2f6f1a9ad276189d4617a0c2168b367bb54ad7/classes.dex" />
+    </item>
+
+</items>

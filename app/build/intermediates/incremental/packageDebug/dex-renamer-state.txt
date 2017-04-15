@@ -1,0 +1,7 @@
+#Wed Apr 12 19:05:56 CEST 2017
+base.0=/Users/gennaro70/AndroidStudioProjects/FireBaseNotifiche/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_244af8b869690092607366f5a0eb6052fa199759
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/gennaro70/AndroidStudioProjects/FireBaseNotifiche/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_db2f6f1a9ad276189d4617a0c2168b367bb54ad7/classes.dex
+base.1=/Users/gennaro70/AndroidStudioProjects/FireBaseNotifiche/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_db2f6f1a9ad276189d4617a0c2168b367bb54ad7
+file.0=/Users/gennaro70/AndroidStudioProjects/FireBaseNotifiche/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_244af8b869690092607366f5a0eb6052fa199759/classes.dex
